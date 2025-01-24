@@ -1,0 +1,14 @@
+C:\Users\imano\OneDrive\Escritorio\ITLA\Programacion 2\Tarea 1\Mapa De Clases\Tarea 1 - Mapa De Clases\bin\Debug\net8.0\Tarea 1 - Mapa De Clases.exe
+C:\Users\imano\OneDrive\Escritorio\ITLA\Programacion 2\Tarea 1\Mapa De Clases\Tarea 1 - Mapa De Clases\bin\Debug\net8.0\Tarea 1 - Mapa De Clases.deps.json
+C:\Users\imano\OneDrive\Escritorio\ITLA\Programacion 2\Tarea 1\Mapa De Clases\Tarea 1 - Mapa De Clases\bin\Debug\net8.0\Tarea 1 - Mapa De Clases.runtimeconfig.json
+C:\Users\imano\OneDrive\Escritorio\ITLA\Programacion 2\Tarea 1\Mapa De Clases\Tarea 1 - Mapa De Clases\bin\Debug\net8.0\Tarea 1 - Mapa De Clases.dll
+C:\Users\imano\OneDrive\Escritorio\ITLA\Programacion 2\Tarea 1\Mapa De Clases\Tarea 1 - Mapa De Clases\bin\Debug\net8.0\Tarea 1 - Mapa De Clases.pdb
+C:\Users\imano\OneDrive\Escritorio\ITLA\Programacion 2\Tarea 1\Mapa De Clases\Tarea 1 - Mapa De Clases\obj\Debug\net8.0\Tarea 1 - Mapa De Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imano\OneDrive\Escritorio\ITLA\Programacion 2\Tarea 1\Mapa De Clases\Tarea 1 - Mapa De Clases\obj\Debug\net8.0\Tarea 1 - Mapa De Clases.AssemblyInfoInputs.cache
+C:\Users\imano\OneDrive\Escritorio\ITLA\Programacion 2\Tarea 1\Mapa De Clases\Tarea 1 - Mapa De Clases\obj\Debug\net8.0\Tarea 1 - Mapa De Clases.AssemblyInfo.cs
+C:\Users\imano\OneDrive\Escritorio\ITLA\Programacion 2\Tarea 1\Mapa De Clases\Tarea 1 - Mapa De Clases\obj\Debug\net8.0\Tarea 1 - Mapa De Clases.csproj.CoreCompileInputs.cache
+C:\Users\imano\OneDrive\Escritorio\ITLA\Programacion 2\Tarea 1\Mapa De Clases\Tarea 1 - Mapa De Clases\obj\Debug\net8.0\Tarea 1 - Mapa De Clases.dll
+C:\Users\imano\OneDrive\Escritorio\ITLA\Programacion 2\Tarea 1\Mapa De Clases\Tarea 1 - Mapa De Clases\obj\Debug\net8.0\refint\Tarea 1 - Mapa De Clases.dll
+C:\Users\imano\OneDrive\Escritorio\ITLA\Programacion 2\Tarea 1\Mapa De Clases\Tarea 1 - Mapa De Clases\obj\Debug\net8.0\Tarea 1 - Mapa De Clases.pdb
+C:\Users\imano\OneDrive\Escritorio\ITLA\Programacion 2\Tarea 1\Mapa De Clases\Tarea 1 - Mapa De Clases\obj\Debug\net8.0\Tarea 1 - Mapa De Clases.genruntimeconfig.cache
+C:\Users\imano\OneDrive\Escritorio\ITLA\Programacion 2\Tarea 1\Mapa De Clases\Tarea 1 - Mapa De Clases\obj\Debug\net8.0\ref\Tarea 1 - Mapa De Clases.dll
